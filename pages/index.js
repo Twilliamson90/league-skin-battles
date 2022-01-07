@@ -12,7 +12,7 @@ export default function Home() {
 
       <main className="flex flex-col items-center justify-center w-full h-screen">
         <h1 className="text-5xl">
-          Welcome to League Skin Battles
+          Welcome to League Splash Battles
         </h1>
       </main>
 
